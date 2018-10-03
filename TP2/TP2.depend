@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1538567248 source:/home/pablo/Escritorio/FACU/PROGRAMACION1/TP2/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1537475604 /home/pablo/Escritorio/FACU/PROGRAMACION1/TP2/utn.h
+
+1538567089 /home/pablo/Escritorio/FACU/PROGRAMACION1/TP2/ArrayEmployees.h
+
+1538565062 source:/home/pablo/Escritorio/FACU/PROGRAMACION1/TP2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1538571518 source:/home/pablo/Escritorio/FACU/PROGRAMACION1/TP2/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
