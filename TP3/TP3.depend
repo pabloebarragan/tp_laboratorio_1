@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133026 source:/home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 /home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/LinkedList.h
+
+1541031971 /home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/Employee.h
+
+1541031971 source:/home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1533133022 /home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/Controller.h
+
+1541029994 source:/home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1533133022 source:/home/alumno/Escritorio/PABLO - 26.09/TP3 - PABLO/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541024262 source:/home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541024262 /home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/LinkedList.h
+
+1542344316 /home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/Employee.h
+
+1542344316 source:/home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541024262 /home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/Controller.h
+
+1542344496 source:/home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1538587396 source:/home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1538587396 /home/pablo/Escritorio/TP3 - PABLO/TP3/Linux_64/utn.h
+
+1543647925 source:/home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"save.h"
+	"utn.h"
+	"parser.h"
+
+1541024262 /home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/LinkedList.h
+
+1542344316 /home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/Employee.h
+
+1543648218 source:/home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541024262 /home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/Controller.h
+
+1543646181 source:/home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1538587396 source:/home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1538587396 /home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/utn.h
+
+1541024262 /home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/parser.h
+
+1543648776 source:/home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1543645899 source:/home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/save.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543645577 /home/pablo/Escritorio/Entrega Sabado/TP3 - PABLO/TP3/Linux_64/save.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
