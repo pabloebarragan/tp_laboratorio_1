@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1535341205 source:/home/blackedhs/Programacion/tp_laboratorio_1/tp_laboratorio_1/tp1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1535341040 source:/home/blackedhs/Programacion/tp_laboratorio_1/tp_laboratorio_1/tp1/funciones.c
+
+1535341067 /home/blackedhs/Programacion/tp_laboratorio_1/tp_laboratorio_1/tp1/funciones.h
+
+1536119234 source:/home/blackedhs/Programacion/tp_laboratorio_1/tp1/funciones.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1536117431 source:/home/blackedhs/Programacion/tp_laboratorio_1/tp1/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblotecaFunciones.h"
+
+1535513115 /home/blackedhs/Programacion/tp_laboratorio_1/tp1/funciones.h
+
+1535665218 source:/home/alumno/Escritorio/fede/tp_laboratorio_1/tp1/funciones.c
+	<stdio_ext.h>
+
+1535665218 source:/home/alumno/Escritorio/fede/tp_laboratorio_1/tp1/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblotecaFunciones.h"
+
+1535665218 /home/alumno/Escritorio/fede/tp_laboratorio_1/tp1/biblotecaFunciones.h
+
+1536119178 /home/blackedhs/Programacion/tp_laboratorio_1/tp1/biblotecaFunciones.h
+
+1543650653 source:/home/pablo/Escritorio/Entrega Sabado/TP1/funciones.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1541726052 source:/home/pablo/Escritorio/Entrega Sabado/TP1/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblotecaFunciones.h"
+
+1543649489 /home/pablo/Escritorio/Entrega Sabado/TP1/biblotecaFunciones.h
+
